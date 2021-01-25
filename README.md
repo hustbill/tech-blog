@@ -1,5 +1,8 @@
 ### Git Operations
 ```
+git config user.name "hustbill"
+git config user.email "billyzhang2010@gmail.com"
+
 $ git remote add origin  <REMOTE_URL> 
 $ git remote add origin https://github.com/hustbill/tech-blog.git
 
