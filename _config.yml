@@ -126,5 +126,5 @@ jsonContent:
 deploy:
   type: git
   repo: https://github.com/hustbill/tech-blog.git
-  branch: master
+  branch: dev
   message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
